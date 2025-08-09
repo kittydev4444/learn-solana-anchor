@@ -1,0 +1,27 @@
+# Rust
+target/
+Cargo.lock
+
+# Anchor
+.program
+.anchor
+.mpl-cache
+
+# Node
+node_modules/
+dist/
+.DS_Store
+
+# Env
+.env
+.env.*
+
+# Logs
+*.log
+
+# Mac system files
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
